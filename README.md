@@ -27,4 +27,4 @@ PROGRAMMING LANGUAGES:
 Core java, php, javascript, python
 
 IDE:
-Eclipse, Visual Studio Code, PyCharm
+Eclipse, Visual Studio Code, PyCharm, Intellij IDEA
